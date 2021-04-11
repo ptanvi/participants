@@ -1,4 +1,0 @@
-Name:Tanvi
-URN:1805566
-CRN:1821084
-Class:D3ITB1
